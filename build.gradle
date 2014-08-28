@@ -68,7 +68,7 @@ artifactory {
     }
 
     defaults {
-      "ivy"
+      publications 'ivy'
     }
   }
 }
